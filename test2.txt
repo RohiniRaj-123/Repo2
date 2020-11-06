@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 7440-F7A5
+
+ Directory of C:\Users\rohini.raj\Documents\MyGitProject
+
+11/06/2020  02:44 PM    <DIR>          .
+11/06/2020  02:44 PM    <DIR>          ..
+11/06/2020  01:47 PM               414 index.html
+11/06/2020  01:47 PM                11 test1.txt
+11/06/2020  02:44 PM                 0 test2.txt
+               3 File(s)            425 bytes
+               2 Dir(s)  114,937,344,000 bytes free
